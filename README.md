@@ -13,6 +13,12 @@ Add features like 1.5 line-spacing, all the statements and page numer, chapter h
 
 The main entry is the `main.tex`. Can just edit the text everywhere around. Didn't make into a `.cls` style file because basically it's a standard latex report.
 
+### Update 17 Mar 21
+
+1. Fix Appendix header \bf problem
+2. Fix Reference page number error
+3. Remove additional bibliographies in Ref/References.bib
+
 ### Update 13 Mar 21
 
 1. Add all the prior pages: Title Page, Statement of Originality, Supervisor Declaration Statement, Authoship Attribution Statement.
