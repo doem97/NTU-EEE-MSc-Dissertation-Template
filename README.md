@@ -28,6 +28,7 @@ The main entry is main.tex, need to install dependencies. Recommend to use pdfLa
 
 1. Update the related links to official guidlines in README and main.tex
 2. Add feature description sec
+3. Fix Appendix bad style and header footer.
 
 ### Update 17 Mar 2021
 
