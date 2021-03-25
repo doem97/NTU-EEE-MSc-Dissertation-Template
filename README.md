@@ -9,9 +9,13 @@ This version is re-defined based on the newest [EEE official dissertation guidli
 
 
 ## USAGE
-### OVERLEAF
+### Overleaf (RECOMMENDED)
 
-**RECOMMENDED** This version of latex template is uploaded to [Overleaf](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh). Strongly recommend to use the overleaf for easy-to-use backend and real-time compilation.
+This version of latex template is uploaded to [Overleaf](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh). Strongly recommend to use the overleaf for easy-to-use backend and real-time compilation.
+
+### Compile by yourself
+
+The main entry is main.tex, need to install dependencies. Recommend to use pdfLatex & Tex Live 2020.
 
 ## FEATURES
 
