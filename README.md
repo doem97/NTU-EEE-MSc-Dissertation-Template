@@ -5,7 +5,7 @@ Refine based on [W.M. Zhao's version](https://www.overleaf.com/latex/templates/n
 
 ## GUIDLINE
 
-This version is re-defined based on the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx)
+This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx), available on [Overleaf](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh) also.
 
 
 ## USAGE
