@@ -1,4 +1,4 @@
-# I would not run this shit with super do anyway
+# I would not run this s**t with super do anyway
 import os
 
 def makeLifeEasier(anything):
