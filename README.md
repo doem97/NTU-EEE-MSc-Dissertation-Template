@@ -22,6 +22,9 @@ The main entry is main.tex, need to install dependencies. Recommend to use pdfLa
 - Fit the guideline specifications
 - Add footer and header
 - Add claim pages
+- Highlighted source code support
+- `SVG`, `PDF`, `EPS` vector images supported
+- All types of elements are given instances
 
 ## UPDATE LOG
 ### Update 29 Mar 2021
