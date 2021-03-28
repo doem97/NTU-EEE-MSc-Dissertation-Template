@@ -24,11 +24,15 @@ The main entry is main.tex, need to install dependencies. Recommend to use pdfLa
 - Add claim pages
 
 ## UPDATE LOG
+### Update 29 Mar 2021
+
+1. Update the source code highlighting sample in appendix
+
 ### Update 25 Mar 2021
 
 1. Update the related links to official guidlines in README and main.tex
 2. Add feature description sec
-3. Fix Appendix bad style and header footer.
+3. Fix Appendix bad style and header footer
 
 ### Update 17 Mar 2021
 
