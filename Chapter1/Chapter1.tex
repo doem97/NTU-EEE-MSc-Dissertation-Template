@@ -19,17 +19,26 @@ Here is a sample of table in \autoref{tabelsample}
 \caption{A table without vertical lines.}
 \label{tabelsample}
 \begin{tabular}[t]{lcc}
-\hline
+\toprule
 &Treatment A&Treatment B\\
-\hline
+\midrule
 John Smith&1&2\\
 Jane Doe&--&3\\
 Mary Johnson&4&5\\
-\hline
+\bottomrule
 \end{tabular}
 \end{table}%
 
-Also can try to refer to this image in \autoref{fig:boundingboxexample}.
+Use  \texttt{$\backslash$newpage} to force start a new page.
+
+\newpage
+
+Also can try to refer to this image in \autoref{fig:boundingboxexample}. Notice that the \texttt{.eps} and \texttt{.pdf} format vector graphs are favoured, because:
+
+\begin{enumerate}
+    \item they can be zoomed-in to check the detail.
+    \item text in such formats are search-able.
+\end{enumerate}
 
 
 \begin{figure}[ht]
@@ -39,6 +48,18 @@ Also can try to refer to this image in \autoref{fig:boundingboxexample}.
 \label{fig:boundingboxexample} 
 \end{figure}
 
+Try to insert a math equation as in \autoref{eq:euler}. If you wanna try the in-line mathematical, here is a sample $\alpha = \pi \cdot \frac{1}{\Theta}$.
+
+\begin{equation}
+\label{eq:euler}
+    e^{ix}= \cos{x} + i \sin{x}
+\end{equation}
+
+Also here is a sample for footnote and hyperlink url\footnote{\url{https://github.com/doem97}}.
+
+When mention some file formats can use \texttt{music.mp3}, \texttt{latex.pdf}, etc.
+
+If there are any update of the dissertation standard, or you want to contribute to the \texttt{NTU-EEE-MSc-Dissertation-Template} project too, kindly send an E-mail to me. Thank you :)
 
 \section{Motivation}
 

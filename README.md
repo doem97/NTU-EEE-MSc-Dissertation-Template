@@ -34,6 +34,11 @@ The main entry is main.tex, need to install dependencies. Recommend to use pdfLa
 
 
 ## UPDATE LOG
+
+### Update 3 April 2021
+
+1. Add more samples about hyperlink, mathematical formula, footnotes.
+
 ### Update 29 Mar 2021
 
 1. Update the source code highlighting sample in appendix
