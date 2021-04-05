@@ -35,6 +35,11 @@ The main entry is main.tex, need to install dependencies. Recommend to use pdfLa
 
 ## UPDATE LOG
 
+### Update 5 April 2021
+
+1. Get rid of user-unfriendly header and footer, turn to use markers to change the headers. ZHEN XIANG.
+2. Add the examples of Acronyms and Symbols.
+
 ### Update 3 April 2021
 
 1. Add more samples about hyperlink, mathematical formula, footnotes.

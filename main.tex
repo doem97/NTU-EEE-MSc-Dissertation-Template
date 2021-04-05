@@ -35,17 +35,9 @@
 % Define the plain pagestyle used by most chapters
 \fancypagestyle{plain}{
 \fancyhf{} % Clear header footer
-\fancyhead[R]{\bf \textsl{\leftmark} \vspace{0.1in}}
+\fancyhead[R]{\bf \small \textsl{\nouppercase{\leftmark}} \vspace{0.1in}}
 \fancyfoot[R]{\thepage}
 % Set the right side of the footer to be the page number
-\renewcommand{\headrulewidth}{2pt}
-}
-% For those Chapter* (Can't use \leftmark to call their chapter name directly)
-\fancypagestyle{addin}{
-\fancyhf{} % Clear header footer
-\fancyhead[R]{\bf \textsl{\leftmark} \vspace{0.1in}}
-% Set the right side of the footer to be the page number
-\fancyfoot[R]{\thepage}
 \renewcommand{\headrulewidth}{2pt}
 }
 
@@ -54,6 +46,7 @@
 % \setlength{\fboxsep}{-0.3in}%
 \setlength{\fboxrule}{0.5pt} % Set the bounding box around the image as 0.5pt
 \pagestyle{plain}
+% \renewcommand{\chaptermark}[1]{\markboth{#1}{}}% Comment this line to use header "Chapter 1. Literature View"; otherwise header is "Literature View"
 
 
 
