@@ -9,13 +9,13 @@ This version complies with the newest [EEE official dissertation guidline](http:
 
 
 ## USAGE
-### Overleaf (RECOMMENDED)
+### Method 1: Overleaf (RECOMMENDED)
 
 Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh), and clike `open as template`. Edit `main.tex` and `Recompile` to preview at the right side.
 
-### Compile by yourself
+### Method 2: Compile by yourself
 
-The main entry is main.tex, need to install dependencies. Recommend to use pdfLatex & Tex Live 2020.
+The main entry is `main.tex`, need to install dependencies. Recommend to use pdfLatex & Tex Live 2020.
 
 ## FEATURES
 
