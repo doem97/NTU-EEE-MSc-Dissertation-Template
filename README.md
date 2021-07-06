@@ -11,7 +11,7 @@ This version complies with the newest [EEE official dissertation guidline](http:
 ## USAGE
 ### Overleaf (RECOMMENDED)
 
-Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh) to use.
+Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh), and clike `open as template`. Edit `main.tex` and click on `Recompile` at the right side.
 
 ### Compile by yourself
 
