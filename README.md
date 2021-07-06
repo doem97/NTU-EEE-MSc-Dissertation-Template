@@ -3,9 +3,9 @@ Nanyang Technological University EEE School, Latex template for Master dissertat
 
 Refine based on [W.M. Zhao's version](https://www.overleaf.com/latex/templates/ntu-master-dissertation/ngnhrrwryccv)
 
-## GUIDLINE
+## GUIDLINE DOC
 
-This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx), available on Overleaf also. Clike [here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh) for a ready-to-go use.
+This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx).
 
 
 ## USAGE
