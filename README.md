@@ -5,13 +5,13 @@ Refine based on [W.M. Zhao's version](https://www.overleaf.com/latex/templates/n
 
 ## GUIDLINE
 
-This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx), available on [Overleaf](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh) also.
+This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx), available on Overleaf also. Clike [here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh) for a ready-to-go use.
 
 
 ## USAGE
 ### Overleaf (RECOMMENDED)
 
-This version of latex template is uploaded to [Overleaf](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh). Strongly recommend to use the overleaf for easy-to-use backend and real-time compilation.
+Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh) to use.
 
 ### Compile by yourself
 
