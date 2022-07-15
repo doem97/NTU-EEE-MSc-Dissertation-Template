@@ -2,11 +2,11 @@
 Nanyang Technological University EEE School, Latex template for Master dissertation report.
 
 ## How to use this template
-#### Method 1: via Overleaf (RECOMMENDED)
+#### Option 1: via Overleaf (RECOMMENDED)
 
 Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh), and clike `open as template`. Edit `main.tex` and `Recompile` to preview at the right side.
 
-#### Method 2: Compile by yourself
+#### Option 2: compile by yourself
 
 The main entry is `main.tex`, need to install dependencies. Recommend to use pdfLatex & Tex Live 2020.
 
