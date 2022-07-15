@@ -8,8 +8,8 @@ Refine based on [W.M. Zhao's version](https://www.overleaf.com/latex/templates/n
 This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx).
 
 
-## INSTSALL
-#### Method 1: Overleaf (RECOMMENDED)
+## USING
+#### Method 1: via Overleaf (RECOMMENDED)
 
 Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh), and clike `open as template`. Edit `main.tex` and `Recompile` to preview at the right side.
 
