@@ -1,7 +1,7 @@
 # NTU EEE Dissertation Latex Template
 Nanyang Technological University EEE School, Latex template for Master dissertation report.
 
-## USING
+## How to use this template
 #### Method 1: via Overleaf (RECOMMENDED)
 
 Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh), and clike `open as template`. Edit `main.tex` and `Recompile` to preview at the right side.
@@ -10,7 +10,11 @@ Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-r
 
 The main entry is `main.tex`, need to install dependencies. Recommend to use pdfLatex & Tex Live 2020.
 
-## HIGHLIGHTS
+## Why should I use LaTex instead of Word
+
+Latex can ease you from tough formating works. Simply filling in text contents to corresponding areas, LaTex would format every thing for you automatically.
+
+#### Highlights of this version
 
 - Fit the guideline specifications
 - Add footer and header
@@ -19,16 +23,16 @@ The main entry is `main.tex`, need to install dependencies. Recommend to use pdf
 - `SVG`, `PDF`, `EPS` vector images supported
 - All types of elements are given instances
 
-## PREVIEW
+#### Preview
 ![front](https://user-images.githubusercontent.com/19631039/113473112-21549d80-949a-11eb-91f5-0fa559c116bc.png)
 ![toc](https://user-images.githubusercontent.com/19631039/113473115-24e82480-949a-11eb-946e-9071f701163c.png)
 ![main](https://user-images.githubusercontent.com/19631039/113473116-26b1e800-949a-11eb-83ae-bffec88c2260.png)
 ![code-highlight](https://user-images.githubusercontent.com/19631039/113473120-29144200-949a-11eb-9e0d-5a69f2f41be5.png)
 
-## COPYRIGHT
+## Copyright
 This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx), refine based on [W.M. Zhao's version](https://www.overleaf.com/latex/templates/ntu-master-dissertation/ngnhrrwryccv)
 
-## HISTORY
+## Changelog
 
 #### Update 5 April 2021
 
