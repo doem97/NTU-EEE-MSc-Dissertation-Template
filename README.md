@@ -1,4 +1,4 @@
-# NTU EEE Dissertation Latex Template
+# NTU EEE M.Sc. Dissertation - Latex Template
 Nanyang Technological University EEE School, Latex template for Master dissertation report.
 
 ## How to use this template
