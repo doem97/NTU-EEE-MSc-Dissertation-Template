@@ -1,13 +1,6 @@
 # NTU EEE Dissertation Latex Template
 Nanyang Technological University EEE School, Latex template for Master dissertation report.
 
-## COPYRIGHT
-
-This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx).
-
-Refine based on [W.M. Zhao's version](https://www.overleaf.com/latex/templates/ntu-master-dissertation/ngnhrrwryccv)
-
-
 ## USING
 #### Method 1: via Overleaf (RECOMMENDED)
 
@@ -32,6 +25,8 @@ The main entry is `main.tex`, need to install dependencies. Recommend to use pdf
 ![main](https://user-images.githubusercontent.com/19631039/113473116-26b1e800-949a-11eb-83ae-bffec88c2260.png)
 ![code-highlight](https://user-images.githubusercontent.com/19631039/113473120-29144200-949a-11eb-9e0d-5a69f2f41be5.png)
 
+## COPYRIGHT
+This version complies with the newest [EEE official dissertation guidline](http://www.eee.ntu.edu.sg/programmes/CurrentStudents/Graduate_Coursework/mscProg/disHome/Pages/home.aspx), refine based on [W.M. Zhao's version](https://www.overleaf.com/latex/templates/ntu-master-dissertation/ngnhrrwryccv)
 
 ## HISTORY
 
