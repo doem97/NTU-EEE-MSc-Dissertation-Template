@@ -9,11 +9,11 @@ This version complies with the newest [EEE official dissertation guidline](http:
 
 
 ## USAGE
-### Method 1: Overleaf (RECOMMENDED)
+#### Method 1: Overleaf (RECOMMENDED)
 
 Clike [Here](https://www.overleaf.com/latex/templates/ntu-eee-msc-dissertation-report-template/kdgfhzffjrvh), and clike `open as template`. Edit `main.tex` and `Recompile` to preview at the right side.
 
-### Method 2: Compile by yourself
+#### Method 2: Compile by yourself
 
 The main entry is `main.tex`, need to install dependencies. Recommend to use pdfLatex & Tex Live 2020.
 
@@ -35,38 +35,38 @@ The main entry is `main.tex`, need to install dependencies. Recommend to use pdf
 
 ## UPDATE LOG
 
-### Update 5 April 2021
+#### Update 5 April 2021
 
 1. Get rid of user-unfriendly header and footer, turn to use markers to change the headers. ZHEN XIANG.
 2. Add the examples of Acronyms and Symbols.
 
-### Update 3 April 2021
+#### Update 3 April 2021
 
 1. Add more samples about hyperlink, mathematical formula, footnotes.
 
-### Update 29 Mar 2021
+#### Update 29 Mar 2021
 
 1. Update the source code highlighting sample in appendix
 
-### Update 25 Mar 2021
+#### Update 25 Mar 2021
 
 1. Update the related links to official guidlines in README and main.tex
 2. Add feature description sec
 3. Fix Appendix bad style and header footer
 
-### Update 17 Mar 2021
+#### Update 17 Mar 2021
 
 1. Fix Appendix header \bf problem
 2. Fix Reference page number error
 3. Remove additional bibliographies in Ref/References.bib
 
-### Update 13 Mar 2021
+#### Update 13 Mar 2021
 
 1. Add all the prior pages: Title Page, Statement of Originality, Supervisor Declaration Statement, Authoship Attribution Statement
 2. Bug fix
 3. Add spacing and remove indent
 
-### Update 11 Mar 2021
+#### Update 11 Mar 2021
 
 1. Remove the color of Table of Contents, because its ugly
 2. Add the right upper title of each section. Quite a shit
